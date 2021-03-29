@@ -17,11 +17,17 @@
 #include <iostream>
 using namespace std;
 
+int fun(float a, float b) {
+    return a * b;
+}
+
+
+
+
 
 
 int main()
-{
-    //1) declare a type float called fltOne (2)
+{    //1) declare a type float called fltOne (2)
 
 
     //2) declare a type float called fltTwo (2)
